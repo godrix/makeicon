@@ -1,0 +1,37 @@
+{
+  "name": "makeicon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": "index.js",
+  "description": "Automate the creation of icons for your mobile applications",
+  "scripts": {
+    "dev": "NODE_ENV=development node index.js",
+    "start": "NODE_ENV=production node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godrix/makeicon.git"
+  },
+  "keywords": [
+    "icon",
+    "generate-icons",
+    "mobile",
+    "mobile-assets",
+    "app-store",
+    "image-generation",
+    "android",
+    "ios",
+    "publish"
+  ],
+  "author": "Carlos Gabriel Godri <cggodri@gmail.com> (https://github.com/godrix)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godrix/makeicon/issues"
+  },
+  "homepage": "https://github.com/godrix/makeicon#readme",
+  "dependencies": {
+    "jimp": "^0.16.1",
+    "log-symbols": "^4.0.0",
+    "prompts": "^2.4.0"
+  }
+}
