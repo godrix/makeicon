@@ -1,6 +1,6 @@
 {
   "name": "makeicon",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "main": "index.js",
   "bin": "index.js",
   "description": "Automate the creation of icons for your mobile applications",
@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/godrix/makeicon#readme",
   "dependencies": {
+    "image-size": "^0.9.3",
     "jimp": "^0.16.1",
     "log-symbols": "^4.0.0",
     "prompts": "^2.4.0"

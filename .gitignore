@@ -111,4 +111,5 @@ dist
 # TernJS port file
 .tern-port
 .gitconfig
-README.md
+assets/*
+!assets/.gitkeep

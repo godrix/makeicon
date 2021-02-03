@@ -1,23 +1,12 @@
 #!/usr/bin/env node
 const { initialChoice} = require('./lib/prompts')
-
+const {generateAssets} = require('./lib')
 
 async function main() {
  
-  switch (await initialChoice()) {
-    case 0:
-      
-      break;
-    case 1:
-      
-      break;
-    case 2:
-      
-      break;
-    default:
-      console.info('nothing')
-  }
+  const awnser = await initialChoice()
 
+  await generateAssets(awnser)
 
 }
 
