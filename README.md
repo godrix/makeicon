@@ -28,7 +28,7 @@
 
 </h1>
 
-> Automates the generation of mobile assets. Automatically generates screen images for send to stores.
+> Automate the creation of icons for your mobile applications
 
 ## 💻 Usage
 
@@ -36,14 +36,12 @@
 npx makeicon
 ```
 
-> tired of making screenshots of each type of smartphone? me too 😆
+> tired of making icons of each type of mobile? me too 😆
 
 ## ✅ To Do
 
 - [ ] Automated testing
-- [X] Background colorization
-- [ ] Inserting text in images
-- [ ] Add more android devices
+- [ ] SplashScreen generator
 
 ## 🤝 Contributing
 

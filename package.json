@@ -1,6 +1,6 @@
 {
   "name": "makeicon",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "main": "index.js",
   "bin": "index.js",
   "description": "Automate the creation of icons for your mobile applications",
