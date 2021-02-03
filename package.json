@@ -30,6 +30,7 @@
   },
   "homepage": "https://github.com/godrix/makeicon#readme",
   "dependencies": {
+    "chalk": "^4.1.0",
     "image-size": "^0.9.3",
     "jimp": "^0.16.1",
     "log-symbols": "^4.0.0",

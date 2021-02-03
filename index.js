@@ -4,9 +4,9 @@ const {generateAssets} = require('./lib')
 
 async function main() {
  
-  const awnser = await initialChoice()
+  const answer = await initialChoice()
 
-  await generateAssets(awnser)
+  await generateAssets(answer)
 
 }
 
