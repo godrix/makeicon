@@ -1,22 +1,25 @@
 # Welcome to makeicon 👋
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/godrix/makeicon?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/godrix/makeicon">
-	
-  <a href="https://www.linkedin.com/in/carlosgodri/">
-    <img alt="Made by Godrix" src="https://img.shields.io/badge/made%20by-Godrix-%2304D361">
-  </a>
+  <img alt="npm downloads" src="https://img.shields.io/npm/dm/makeicon.svg?style=flat-square">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/godrix/makeicon?color=%2304D361&style=flat-square">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/godrix/makeicon?style=flat-square">
 
   <a href="https://github.com/godrix/makeicon/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/godrix/makeicon">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/godrix/makeicon?style=flat-square">
   </a>
 
   <a href="https://github.com/godrix/makeicon/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/godrix/makeicon">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/godrix/makeicon?style=flat-square">
   </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+    
+<a href="https://www.linkedin.com/in/carlosgodri/">
+    <img alt="Made by Godrix" src="https://img.shields.io/badge/made%20by-Godrix-%2304D361?style=flat-square">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat-square">
 </p>
 
 
@@ -31,6 +34,8 @@
 > Automate the creation of icons for your mobile applications
 
 ## 💻 Usage
+
+run at the root of the folder containing the image
 
 ```sh
 npx makeicon

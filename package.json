@@ -12,9 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/godrix/makeicon.git"
   },
+
+  
   "keywords": [
     "icon",
     "generate-icons",
+    "generator",
+    "iconlaunch",
+    "app icons",
     "mobile",
     "mobile-assets",
     "app-store",
